@@ -3,8 +3,8 @@
 # PENETRATION TESTING REPORT
 ## FOOTPRINTING & NETWORK SCANNING PHASES
 WK2-PM2|CYBERSECURITY|NETWORKWALKS
-| Pentester Name 
-(Cybersecurity Professional) | Dasola Olaopa |
+| Pentester Name | Dasola Olaopa |
+| (Cybersecurity Professional) |          |
 |---------------------------------------------|---------------|
 |
 
