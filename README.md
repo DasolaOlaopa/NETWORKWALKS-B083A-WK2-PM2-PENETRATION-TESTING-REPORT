@@ -7,7 +7,7 @@ WK2-PM2|CYBERSECURITY|NETWORKWALKS
 |---------------------------------------------|---------------|
 | Program/Batch| B083-NetworkWalks | 
 | Date | |
-|Modules Completed | 1. W2-PM1 (Multiple Kali Tools) 
+|Modules Completed | 1. W2-PM1 (Multiple Kali Tools), 2. w2-PM5 (Zenmap scanning)|
 |  | 2. w2-PM5 (Zenmap scanning)
 
 A brief Penetration testing report, including footprinting &amp; network scanning phases.
