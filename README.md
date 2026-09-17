@@ -32,7 +32,11 @@ This table lists each tools used in this project and also its purpose in the pro
 | curl -l | Reads HTTP response headers of the website. |
 | wafw00f| Detects if a Web Application Firewall protects the site |
 | dnsrecon| Highlights all DNS records (NS, MX, SRV, SPF, TXT, SOA)|
-| Zenmap (Nmap GUI)| Scans local subnet to find live hosts, IPs, Default gateway and MAC addresses.|
-| 
+| Zenmap (Nmap GUI)| Scans local subnet to find live hosts, IPs|
+| Windows CMD| Local IP and MAC address identification|
+## 4. Activities Performed.
+### 4.1 Footprinting & Reconnaissance.
+I performed an active reconnaissance against the networkwalks.com domain using six Kali Linux tools: **WHOIS,** **WhatWeb,** **Nslookup,** **Curl,** **Wafw00f** and **DNSRecon.** Each tool was used for different and specific collection of information about the target.
+
 
 
