@@ -44,13 +44,11 @@ I performed an active reconnaissance against the networkwalks.com domain using s
 
 **Nslookup** helped to resolve domain name to its IP address. The result provided is **192.232.216.135**
 
-**Curl** with -i was used to inspect the HTTP response headers. This gave additional information
+**Curl** with -i was used to inspect the HTTP response headers. This gave additional information about the web application and explosed the WordPress REST API endpoint /wp-json/wp/v2/pages/53.
 
+**Wafw00f** helped to determine if a Web Application Firewall was protecting the website. Result showed **ModSecurity (SpiderLabs).**
 
-
-
-
-
+Finally, **DNSRecon** was used to highlight DNS records. The results gave information showing name servers, mail servers, SPF/TXT records, service records and DNS software information.
 
 ## Network Scanning with Zenmap.
 
