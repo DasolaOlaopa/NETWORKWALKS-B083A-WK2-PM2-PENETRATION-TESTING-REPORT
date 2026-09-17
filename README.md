@@ -51,9 +51,10 @@ I performed an active reconnaissance against the networkwalks.com domain using s
 Finally, **DNSRecon** was used to highlight DNS records. The results gave information showing name servers, mail servers, SPF/TXT records, service records and DNS software information.
 
 ## Network Scanning with Zenmap.
+For the second activity, Zenmap was used to identify network discovery on my local network. Requirements for this practice include; identification of my local IP address and subnet, discovering live hosts, identifying their IP and MAC addresses and generating a network topology.
 
-
-Firstly, I opened the windows command prompt and typed ipconfig on my windows terminal to identify my local 
+Firstly, I opened the windows command prompt and typed ipconfig on my windows terminal to identify my local IP address and LAN subnet. I typed the IP address in Zenmap and ran  a **ping scan** to identfy active hosts.
+The sca
 
 
 
