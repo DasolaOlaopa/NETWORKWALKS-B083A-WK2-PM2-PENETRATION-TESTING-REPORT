@@ -37,6 +37,21 @@ This table lists each tools used in this project and also its purpose in the pro
 ## 4. Activities Performed.
 ### 4.1 Footprinting & Reconnaissance.
 I performed an active reconnaissance against the networkwalks.com domain using six Kali Linux tools: **WHOIS,** **WhatWeb,** **Nslookup,** **Curl,** **Wafw00f** and **DNSRecon.** Each tool was used for different and specific collection of information about the target.
+**WHOIS** was used to view publicly available registration information and also identify the domain's name servers. The result of this reconnaaissance provided detailed information about domain registration, expiry date and hosting infrastructure.
+**WhatWeb** identified the technologies used by networkwalks.com website. The results identified **WordPress 7.1**, **WP Download Manager 3.3.58**, email addresss **info@networkwalks.com** amongst other information exposed by the website.
+**Nslookup** helped to resolve domain name to its IP address. The result provided is **192.232.216.135**
+**Curl** with -i was used to inspect the HTTP response headers. This gave additional information
+
+
+
+
+
+
+
+## Network Scanning with Zenmap.
+
+
+Firstly, I opened the windows command prompt and typed ipconfig on my windows terminal to identify my local 
 
 
 
