@@ -82,7 +82,41 @@ Therefore, the presence of information such as a software version, IP address or
 
 ## 6 Recommendations
 Based on the observations from these activities, the following security improvements are recommended:
-  1.
+
+  1. **Publicly exposed technology information should be reviewed.**
+     Organizations should conduct a regular review of the information about their website technologies,       plugins and CMS that are publicly visible.
+  2. **Software Update**
+     CMS platforms, plugins and other web technologies should be regularly updated and reviewed for any       necessary security patch.
+  3.**HTTP Headers Review**
+     HTTP headers should also be reviewed to determine whether unnecessary technical information is           being exposed.
+  4. **Regular DNS Records Review**
+     Periodic checks should be conducted on the DNS, to ensure that only the required information and         services are publicly exposed.
+  5. **Proper Configuration and Monitoring of the WAF**
+     Keep the WAF (ModSecurity) enabled and tuned, since it already blocks naive attacks.
+  6. **Regular Internal Network Discovery**
+     Organizations should periodically scan their own networks to identify active devices.
+  7. **Investigate Unknown Devices**
+     Any unfamiliar device discovered during network scanning should be properly investigated.
+  8. **Perform Security Testing with Authorization**
+     Reconnaissance and scanning should only be performed against systems and networks where appropriate      authorization has been provided.
+
+## 7. Conclusion.
+During Week 2 of my Cybersecurity & Ethical Hacking Internship, I had hands-on experience spanning across footprinting, reconnaissance and network scanning.
+
+For the footprinting activity, six Kali Linux tools were used to gather information about the target domain. I learnt how WHOIS can provide domain information, WhatWeb identifies website technologies, Nslookup resolves domain names to IP address, Curl inspects HTTP headers, Wafw00f identifies a WAF and DNSRecon provides additional DNS information.
+
+During the network scanning activity, Zenmap was used to identify my local network configuration and discover active hosts. Also, IP and MAC address information were collected and a network topology was created.
+
+The exercises showed me information gathering is a vital part of cybersecurity. Even before trying to exploit anything, you can learn a lot about a target just by carefully going through publicly available info and paying attention to how the network responds.
+
+I also realized how crucial clear documentation is. A solid report doesn't just list what you did, it explains what you found, what it actually means, the risk it introduces, and how to fix it.
+
+Lastly, I learnt that reconnaissance and scanning should only be done within an authorized scope. All of this was done as part of an assigned educational cybersecurity lab.
+
+## 8. Evidences Collected.
+
+
+![who is](whois.png)
 
 
 
