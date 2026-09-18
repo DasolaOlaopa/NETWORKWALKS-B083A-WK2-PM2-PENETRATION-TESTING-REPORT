@@ -118,5 +118,8 @@ Lastly, I learnt that reconnaissance and scanning should only be done within an 
 
 ![who is](whois.png)
 
+![what web](whatweb.png)
+
+![ns lookup](nslookup.png)
 
 
