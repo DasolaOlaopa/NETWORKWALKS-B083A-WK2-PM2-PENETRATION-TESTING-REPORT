@@ -113,7 +113,7 @@ I also realized how crucial clear documentation is. A solid report doesn't just 
 
 Lastly, I learnt that reconnaissance and scanning should only be done within an authorized scope. All of this was done as part of an assigned educational cybersecurity lab.
 
-<p align="right">
+<p align="justify">
 
 ## 8. Evidences Collected.
 
