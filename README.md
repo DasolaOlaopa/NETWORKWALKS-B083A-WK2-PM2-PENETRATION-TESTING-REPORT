@@ -128,4 +128,12 @@ Lastly, I learnt that reconnaissance and scanning should only be done within an 
 
 ![zenmap topology](zenmap-topology....jpg)
 
+👤 **Author**
+**Dasola Olaopa**
+Cybersecurity Professional B083
+LinkedIn: https://www.linkedin.com/in/olaopadasola
+
+📌 **Project Information**
+**Project Information:** Cybersecurity Program at NetworkWalks | Week: 02 : Repository: GitHub
+
 
