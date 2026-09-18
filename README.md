@@ -126,6 +126,6 @@ Lastly, I learnt that reconnaissance and scanning should only be done within an 
 
 ![waf w00f](wafw00f.png)
 
-![zen map topology](zenmap-topology....png)
+![zenmap topology](zenmap-topology....jpg)
 
 
