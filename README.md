@@ -65,6 +65,6 @@ After completing the scan, I clicked on the Topology icon displayed on Zenmap, e
 Based on the information gathered during the footprinting and network scanning activities, I identified the following potential risks.
 | S/N | Risk/Findings | Evidence/Observation | Potential Impact | Risk Level |
 |-----|---------|--------|---------|-------|
-
+|1| Website technology information exposed | WhatWeb identified WordPress and WP Download Manager | Threat actors could use the exposed version information to identify software that requires security patch |  🟠 |
 
 
