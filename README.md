@@ -122,4 +122,10 @@ Lastly, I learnt that reconnaissance and scanning should only be done within an 
 
 ![ns lookup](nslookup.png)
 
+![curl I](curl-I.png)
+
+![waf w00f](wafw00f.png)
+
+![zenmap topology](zenmap-topology....png)
+
 
