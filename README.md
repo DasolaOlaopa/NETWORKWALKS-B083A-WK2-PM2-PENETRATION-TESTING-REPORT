@@ -61,7 +61,7 @@ The scan identified three live hosts;
 
 After completing the scan, I clicked on the Topology icon displayed on Zenmap, enabled the legend and saved my network topology in PDF format as required by the practical task. I also too a screenshot for easy access.
 
-## 5. Risk Analysis / Impact
+## 5. Risk Analysis / Impact.
 Based on the information gathered during the footprinting and network scanning activities, I identified the following potential risks.
 | S/N | Risk/Findings | Evidence/Observation | Potential Impact | Risk Level |
 |-----|---------|--------|---------|-------|
@@ -80,7 +80,7 @@ The practical exercises basically involved information gathering and host discov
 
 Therefore, the presence of information such as a software version, IP address or DNS record does not exactly mean that the system itself is vulnerable. Further authorized security testing would be required to confirm any actual vulnerability.
 
-## 6 Recommendations
+## 6 Recommendations.
 Based on the observations from these activities, the following security improvements are recommended:
 
   1. **Publicly exposed technology information should be reviewed.**
