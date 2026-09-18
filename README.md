@@ -6,7 +6,7 @@ WK2-PM1|CYBERSECURITY|NETWORKWALKS
 | Pentester Name (Cybersecurity Professional)| Dasola Olaopa |
 |---------------------------------------------|---------------|
 | Program/Batch| B083-NetworkWalks | 
-| Date | |
+| Date | 18th September 2026|
 |Modules Completed | 1. WK2-PM1 (Multiple Kali Tools)|
 |  | 2. W2-PM5 (Zenmap scanning) |
 | Clear/Target | 1. Networkwalks (secured written permission already) |
@@ -50,11 +50,21 @@ I performed an active reconnaissance against the networkwalks.com domain using s
 
 Finally, **DNSRecon** was used to highlight DNS records. The results gave information showing name servers, mail servers, SPF/TXT records, service records and DNS software information.
 
-## Network Scanning with Zenmap.
+### 4.2 Network Scanning with Zenmap.
 For the second activity, Zenmap was used to identify network discovery on my local network. Requirements for this practice include; identification of my local IP address and subnet, discovering live hosts, identifying their IP and MAC addresses and generating a network topology.
 
 Firstly, I opened the windows command prompt and typed ipconfig on my windows terminal to identify my local IP address and LAN subnet. I typed the IP address in Zenmap and ran  a **ping scan** to identfy active hosts.
-The sca
+The scan identified three live hosts;
+   * 10.33.22.52
+   * 10.33.22.160
+   * 192.122.41.1
+
+After completing the scan, I clicked on the Topology icon displayed on Zenmap, enabled the legend and saved my network topology in PDF format as required by the practical task. I also too a screenshot for easy access.
+
+## 5. Risk Analysis / Impact
+Based on the information gathered during the footprinting and network scanning activities, I identified the following potential risks.
+| S/N | Risk/Findings | Evidence/Observation | Potential Impact | Risk Level |
+|-----|---------|--------|---------|-------|
 
 
 
