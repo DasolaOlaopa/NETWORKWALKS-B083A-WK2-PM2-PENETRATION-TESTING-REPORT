@@ -71,7 +71,17 @@ Based on the information gathered during the footprinting and network scanning a
 | 4 | WAF technology identifiable | Wafw00f identified ModSecurity (SpiderLabs) | Reveals information about the web application's security architecture | 🟡 |
 | 5 | DNS infrastructure information exposed | DNSRecon identified DNS, mail and service-related records | DNS information can help build a broader infrastructure profile |  🟠 |
 | 6 | Multiple live hosts visible on local network | Zenmap identified three live hosts in the example network | Unauthorized devices may be potentially present on a network |  🟠 |
+Risk level key: 🔴 High 🟠 Medium 🟡 Low 
 
+The risks above are observations from the footprinting and scanning exercises not from confirmed vulnerabilities.
+
+The practical exercises basically involved information gathering and host discovery. No exploitation or vulnerability validation was performed as part of these two modules.
+
+Therefore, the presence of information such as a software version, IP address or DNS record does not exactly mean that the system itself is vulnerable. Further authorized security testing would be required to confirm any actual vulnerability.
+
+## 6 Recommendations
+Based on the observations from these activities, the following security improvements are recommended:
+  1.
 
 
 
