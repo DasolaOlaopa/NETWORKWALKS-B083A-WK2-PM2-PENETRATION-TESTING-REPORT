@@ -130,7 +130,9 @@ Lastly, I learnt that reconnaissance and scanning should only be done within an 
 
 👤 **Author**
 **Dasola Olaopa**
+
 Cybersecurity Professional B083
+
 LinkedIn: https://www.linkedin.com/in/olaopadasola
 
 📌 **Project Information**
