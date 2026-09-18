@@ -124,7 +124,7 @@ Lastly, I learnt that reconnaissance and scanning should only be done within an 
 
 ![curl I](curl-I.png)
 
-![waf w00f](wafw00f.png)
+![waf w00f](wafw00f...png)
 
 ![zenmap topology](zenmap-topology....jpg)
 
